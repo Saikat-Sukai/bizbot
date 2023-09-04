@@ -1,4 +1,4 @@
-<p align="center"><a href="https://bizbot.site" target="_blank"><img src="https://bizbot.site/bizbot-dark.svg" width="300" alt="BizBot Logo"></a></p>
+<p align="center"><a href="https://bizbot.site" target="_blank"><img src="https://bizbot.site/logo.svg" width="300" alt="BizBot Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/freebizbot/bizbot"><img src="https://img.shields.io/badge/license-GPL--3-F01F4B" alt="License"></a>
