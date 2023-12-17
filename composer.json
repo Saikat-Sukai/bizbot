@@ -70,7 +70,7 @@
     "repositories": [
         {
             "type": "path",
-            "url": "../../bbplugins/*"
+            "url": "E:\softwares\php\ComposerSetup"
         }
     ]
 }
